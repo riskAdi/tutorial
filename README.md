@@ -7,3 +7,5 @@
 # terminal
 
 my chage
+
+ss
